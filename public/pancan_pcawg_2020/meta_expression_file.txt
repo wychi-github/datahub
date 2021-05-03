@@ -1,0 +1,8 @@
+cancer_study_identifier: pancan_pcawg_2020
+genetic_alteration_type: GENE_EXPRESSION_RNAseq
+datatype: CONTINUOUS
+stable_id: rna_seq_mrna
+show_profile_in_analysis_tab: false
+profile_name: Gene Expression RNAseq (normalized)
+profile_description: Gene Expression RNAseq (normalized)
+data_filename: data_expression_file.txt

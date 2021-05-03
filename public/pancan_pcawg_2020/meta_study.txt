@@ -1,0 +1,7 @@
+type_of_cancer: pancan
+cancer_study_identifier: pancan_pcawg_2020
+"name: Pan-cancer analysis of whole genomes (UCSF, Science 2014)"
+"description: WGS changes cateloged in 2,658 cancer whole genomes across 38 tumor types"
+citation: Campbell et al. Nature 2020
+pmid: 24336570
+short_name: PCAWG (ICGC/TCGA)
